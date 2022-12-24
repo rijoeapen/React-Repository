@@ -45,8 +45,6 @@
   root.render(container);
 
 
-  
-
   //   const heading = document.createElement("h1");
   //   heading.innerHTML = "Welocome to React...";
   //   const root = document.getElementById("root");
